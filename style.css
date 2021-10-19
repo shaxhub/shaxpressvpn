@@ -91,4 +91,4 @@ section::after {
 @media screen and (max-width: 720px) {
   section, .navbar {   
     flex-direction: column;
-  }
+}

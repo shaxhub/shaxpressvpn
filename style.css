@@ -88,7 +88,8 @@ section::after {
 	padding: 2px;
 	text-decoration: none;
 }
-@media screen and (max-width: 720px) {
-  section, .navbar {   
+@media (max-width: 720px) {
+  section {
     flex-direction: column;
+  }
 }

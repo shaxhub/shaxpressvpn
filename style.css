@@ -65,9 +65,24 @@ h2{
 	margin-right: auto;
 	max-width: 50%;
 }
+.article button {
+	padding: 4px;
+	margin-left: 40px;
+}
+.spons{
+	text-align: left;
+	flex: 1;
+}
 h5{
 	text-align: left;
 	padding: 30px;
+}
+h6{
+	text-align: left;
+	margin-left: 40px;
+}
+#spons{
+	margin-left: 40px;
 }
 section::after {
   content: "";

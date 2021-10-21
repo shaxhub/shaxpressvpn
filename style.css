@@ -58,6 +58,7 @@ h2{
 .article{
 	flex: 4;
 	background-color:white;
+	flex-direction: column;
 }
 .center {
 	display: block;
@@ -68,6 +69,10 @@ h2{
 .article button {
 	padding: 4px;
 	margin-left: 40px;
+}
+.end{
+	position: absolute;                 
+	bottom: 0;
 }
 .spons{
 	text-align: left;
